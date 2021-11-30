@@ -10,5 +10,5 @@ and build the instruction .
 
 # Deploy instruction
 
-Deploy ```target/WebApp.war``` on tommcat properly for better experience.
+Deploy ```target/WebApp.war``` on TOmmcat properly for better experience.
 
